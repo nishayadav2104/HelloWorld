@@ -1,2 +1,3 @@
 # HelloWorld
-Hi, This is my test repository
+Hi, This is my test repository...
+Trying to learn how GIT works.
